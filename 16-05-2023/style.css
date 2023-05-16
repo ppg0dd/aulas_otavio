@@ -1,0 +1,33 @@
+body {
+    background-color: #e8e8e8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  .converter {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
+  #result {
+    font-weight: bold;
+  }
+  
